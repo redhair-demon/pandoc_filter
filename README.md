@@ -5,6 +5,7 @@
 * Заменяет все заголовки уровня 3 и ниже на ЗАПИСАННЫЕ В ВЕРХ-НЕМ РЕГИСТРЕ
 * Находит в тексте слово BOLD и делает его начертаниежирным
 # Документация по фильтрам в pandoc:
-* https://pandoc.org/filters.html•https://pandoc.org/lua-filters.html
+* https://pandoc.org/filters.html
+* https://pandoc.org/lua-filters.html
 * В задании так же следует представить примеры документов и результаты работы.
 * Присылать сюда: belyaev@kspt.icc.spbstu.ru1
